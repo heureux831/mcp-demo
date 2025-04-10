@@ -1,0 +1,14 @@
+{
+    "servers": [
+      {
+        "command": "uv",
+        "args": ["run","../server/tasklist.py"],
+        "env": null
+      },
+      {
+        "command": "uv",
+        "args": ["run","../server/weather.py"],
+        "env": null
+      }
+    ]
+  }

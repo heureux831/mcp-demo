@@ -1,0 +1,12 @@
+[project]
+name = "mcp-client"
+version = "0.1.0"
+description = "A simplest MCP system implemented in Python, including a client and several servers."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+    "openai>=1.72.0",
+    "python-dotenv>=1.1.0",
+]

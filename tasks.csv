@@ -1,0 +1,11 @@
+id,task_name,category,priority,status,deadline,assignee
+1,Analyze Customer Feedback,Marketing,High,In Progress,2024-08-15,John
+2,Prepare Monthly Sales Report,Sales,Medium,Not Started,2024-08-20,Alice
+3,Update Employee Training Materials,HR,Low,In Progress,2024-08-25,Bob
+4,Review Financial Statements,Finance,High,Completed,2024-08-18,David
+5,Organize Team Building Event,Operations,Medium,Not Started,2024-08-16,Emma
+6,Design New Product Prototype,Research & Development,High,In Progress,2024-08-30,Michael
+7,Conduct Market Research,Marketing,Medium,Not Started,2024-08-22,Sarah
+8,Update Website Content,Digital Marketing,Low,Completed,2024-08-28,Olivia
+9,Prepare Budget Proposal,Finance,High,In Progress,2024-08-17,James
+10,Recruit New Interns,HR,Medium,Not Started,2024-08-19,Lisa
